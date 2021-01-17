@@ -1,4 +1,5 @@
 # First Django
+Simple TOdo application built with Django which demonstrates what I have learned.
 
 
 ## Database
