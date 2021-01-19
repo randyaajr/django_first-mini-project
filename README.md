@@ -1,6 +1,9 @@
 # First Django
 Simple TOdo application built with Django which demonstrates what I have learned.
 
+## Languages/Frameworks
+- HTML5
+- Django
 
 ## Database
 Django converts our Python code into sequel code. which can be executed on our database.
