@@ -26,6 +26,19 @@ Create login to look at tables and potentially make changes to them if needed
 python3 manage.py createsuperuser
 ```
 
+*Postgres was later used due to Heroku updates deleting data from SQLite*
+
+## Requirements
+```
+asgiref==3.3.1
+coverage==5.3.1
+Django==3.1.5
+gunicorn==20.0.4
+psycopg2-binary==2.8.6
+pytz==2020.5
+sqlparse==0.4.1
+```
+
 ## Deployment
 1. Installing Heroku
 ```
