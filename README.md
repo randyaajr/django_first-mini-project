@@ -25,3 +25,13 @@ Create login to look at tables and potentially make changes to them if needed
 ```
 python3 manage.py createsuperuser
 ```
+
+## Deployment
+1. Installing Heroku
+```
+npm install -g heroku
+```
+2. Loging Into Heroku
+```
+heroku login -i
+```
